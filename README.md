@@ -30,8 +30,8 @@
 
 ### Stats 📊
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=TheHanki&theme=dark&show_icons=true&line_height=33)
-![github-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHanki&langs_count=4&theme=dark&line_height=35&hide=cmake)
+![github-stats](https://github-readme-stats.vercel.app/api?username=ardafather&theme=dark&show_icons=true&line_height=33)
+![github-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardafather&langs_count=4&theme=dark&line_height=35&hide=cmake)
 
 <!--
 ### Project Hightlights ⭐
